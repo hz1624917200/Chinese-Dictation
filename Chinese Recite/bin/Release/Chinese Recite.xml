@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Chinese Recite
+</name>
+</assembly>
+<members>
+<member name="M:Chinese_Recite.FormMain.FormMain_Load(System.Object,System.EventArgs)">
+<summary>
+ library format:
+ 1:(s as string,loc as integer
+ (one or more, splited with '.'),rank as integer>=1)
+ 2:(s as string,pro as string,ton as integer,
+ loc(the same as 1),rank as integer)
+ </summary>
+</member>
+<member name="T:Chinese_Recite.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Chinese_Recite.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Chinese_Recite.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

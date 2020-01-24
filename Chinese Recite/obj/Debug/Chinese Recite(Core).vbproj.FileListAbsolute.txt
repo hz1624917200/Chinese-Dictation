@@ -1,0 +1,10 @@
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\bin\Debug\Chinese Recite.exe
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\bin\Debug\Chinese Recite.pdb
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\bin\Debug\Chinese Recite.xml
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese_Recite.Form1.resources
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese_Recite.Resources.resources
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese Recite(Core).vbproj.GenerateResource.Cache
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese Recite.exe
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese Recite.xml
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese Recite.pdb
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Chinese Recite\obj\Debug\Chinese Recite(Core).vbprojResolveAssemblyReference.cache
