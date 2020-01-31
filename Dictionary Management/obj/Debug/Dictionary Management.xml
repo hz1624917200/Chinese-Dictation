@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Dictionary Management
+</name>
+</assembly>
+<members>
+<member name="T:Dictionary_Management.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Dictionary_Management.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Dictionary_Management.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Dictionary_Management.Zoom.setTag(System.Object)">
+ <summary>Auto zoom Module
+ 
+ If you want to use the auto zoom function in your object
+ first declare the 
+ then add the sub 'zoomInitialize' to Load sub (sender is 'Me')
+ then add the sub 'setcontrols' to the event {form_name}_Resize
+ syntax:   setcontrols(me.width/x, me.height/y)
+ Good Luck!
+ Jan 24, 2020 ,By Zheng Huang
+ </summary>
+</member>
+</members>
+</doc>

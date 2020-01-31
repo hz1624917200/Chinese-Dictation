@@ -1,0 +1,10 @@
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary_Management.FormMain.resources
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary_Management.Resources.resources
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary Manager.vbproj.GenerateResource.Cache
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary Management.xml
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\bin\Debug\Dictionary Management.exe
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\bin\Debug\Dictionary Management.pdb
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\bin\Debug\Dictionary Management.xml
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary Management.exe
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary Management.pdb
+E:\School\YingZhou High School\Personal\2020\Visual Studio\Chinese Recite\Dictionary Management\obj\Debug\Dictionary Manager.vbprojResolveAssemblyReference.cache
