@@ -1,9 +1,12 @@
 ﻿Module Zoom
 
-    ''' <summary>
+    ''' <summary>Auto zoom Module
+    ''' 
     ''' If you want to use the auto zoom function in your object
-    ''' you should first add the sub 'zoomInitialize' to Load sub (sender is 'Me')
+    ''' first declare the 
+    ''' then add the sub 'zoomInitialize' to Load sub (sender is 'Me')
     ''' then add the sub 'setcontrols' to the event {form_name}_Resize
+    ''' syntax:   setcontrols(me.width/x, me.height/y)
     ''' Good Luck!
     ''' Jan 24, 2020 ,By Zheng Huang
     ''' </summary>
